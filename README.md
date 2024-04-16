@@ -9,3 +9,9 @@ https://learn.microsoft.com/en-us/shows/machine-learning-for-beginners/introduct
 https://github.com/microsoft/ML-For-Beginners
 
 https://github.com/microsoft/Data-Science-For-Beginners
+
+
+https://github.com/microsoft/ai-for-beginners 
+
+Microsoft Python for beginners (4 years old), a YouTube series only, no github
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
