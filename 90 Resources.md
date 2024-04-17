@@ -21,6 +21,13 @@ As well a lots of great datasets, [Kaggle](https://www.kaggle.com/)  also host e
 
 [DataCamp](https://www.datacamp.com/) and [Brilliant](https://brilliant.org/) also offer many ML courses as part of a paid subscription service.
 
+## Other resources
+
+Course [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners) 12-week, 24-lesson from Microsoft
+ 
+
+Course [Microsoft Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 4 years old, a YouTube series
+
 
 
 

@@ -1,17 +1,3 @@
 These are the materials for a Machine Learning course.  This course is currently under development.
 
 
-useful resources
-
-https://learn.microsoft.com/en-us/shows/machine-learning-for-beginners/introduction-to-machine-learning-for-beginners-machine-learning-for-beginners
-
-
-https://github.com/microsoft/ML-For-Beginners
-
-https://github.com/microsoft/Data-Science-For-Beginners
-
-
-https://github.com/microsoft/ai-for-beginners 
-
-Microsoft Python for beginners (4 years old), a YouTube series only, no github
-https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
