@@ -6,7 +6,6 @@ Most of the course is in the form of guided tutorials and lab exercises in Pytho
 
 The course uses three Python libraries extensively; numpy, pandas and scikit-learn, an open-source library for supervised and upsupervised learning (explained below) with lots of tools to pre-process data, create, fit and evaluate models.
 
-
 The exercise and tutorial use public datasets.  These are in the data folder of this repo.  The Datasets sections provided a brief description of each.
 
 Dataset Terms: 
@@ -31,9 +30,9 @@ scikit-learn offers a set of models including
 * k-NN,  a model that classifies a data point based on a majority vote of its nearest neighbours
 
 scikit-learn has a consistent pattern for creating and using models, regardless of the type of model being used.
-model = <a class of Model>  
-model.fit(X, y)  
-predictions = model.predict  
+1. model = a class of some Model type
+2. model.fit(X, y)  
+3. predictions = model.predict  
 
 scikit-learns has several popular useful modules
 * model_selection - splits data into training and test
@@ -41,6 +40,21 @@ scikit-learns has several popular useful modules
 * linear_model
 * metrics, for measuring how wgood (accurate) the model is
 
+## Course Structure
 
+The structure of this course is 
+* 10 - Introduction
+* 20 - Datasets used in the Course
+* 30 - Linear (least squares and SVM)  and Logistic Regression
+  * Linear regression tutorial: to do
+  * Linear regression lab exercise: to do
+  * Logistic regression tutorial: Titanic Passenger Survival
+  * Logistic regress lab exercise: to do (use bank churn)  
+* 40 - Other Classification Models: k Nearest neighbours (kNN), Naive Bayes,  Lab to comapre and evaluate several models
+  * Tutorial for each
+  * Lab exercise for each
+* 50 - Unsupervised techniques.  Clustering
+* 70 * Deep learning. Building neural nets.  keras, tensorflow and PyTorch packages (optional advanced section)
+* 90 - Resources
 
 

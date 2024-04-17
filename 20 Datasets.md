@@ -1,6 +1,10 @@
 # Datasets ued in the Course
 
-The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn packgae.  Other are in the data folder of this repo.  here is a brief description of each, and a link for further information
+to do: add these datasets if and when used.  
+* kaggle: credit card fraud, email spam, house prices, cooking ingredients,...
+* scikit-learn: diabetes
+
+The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn packgae.  Other are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
 
 ## Bank Churn Dataset
 
