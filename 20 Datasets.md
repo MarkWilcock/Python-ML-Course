@@ -1,8 +1,4 @@
-# Datasets ued in the Course
-
-to do: add these datasets if and when used.  
-* kaggle: credit card fraud, email spam, house prices, cooking ingredients,...
-* scikit-learn: diabetes
+# Datasets used in the Course
 
 The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn packgae.  Other are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
 
@@ -32,20 +28,30 @@ The event that defines the customer's churn is the closing of the customer's ban
 
 ## Titanic
 
-This is a prtial list of some of the passengers on the Titanic.  The features are
+This is a partial list of some of the passengers on the Titanic.  The features are
+
 * Survived 0 - Died, 1 - Survived
 * Pclass Passenger Class
- * Name   Note consistent format: <Last name>, <Title>. <First name> (with extra rules for married women) 
-* Sex 
-* Age 
+* Name   Note consistent format: \<Last name\>, \<Title\>, \<First name\> (with extra rules for married women)
+* Sex
+* Age
 * SibSp Number of siblings (brothers/sisters)  and spouses in the party travelling with the passenger (excluding the passenger)
 * Parch Number of parents and children in the party travelling with the passenger (excluding the passenger)
 * Fare In GBP (1912 value)
 * Embarked Point of embarkation: S - Southampton, Q - Queenstown, C - Cherbourg
 
-
 ## scikit-learn datasets
 
-The inbuilt scikit-learn datasets used in teh course are:
+The inbuilt scikit-learn datasets used in the  course are:
+
 * diabetes
 * ...
+
+<!--
+to do: add these datasets if and when used.  
+
+* kaggle: credit card fraud, email spam, house prices, cooking ingredients,...
+* scikit-learn: diabetes
+
+
+-->
