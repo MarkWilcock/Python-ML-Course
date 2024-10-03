@@ -1,6 +1,6 @@
 # Datasets used in the Course
 
-The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn packgae.  Other are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
+The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn packgae.  Others are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
 
 ## Bank Churn Dataset
 
