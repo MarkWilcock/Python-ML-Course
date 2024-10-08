@@ -1,14 +1,14 @@
-# Resources for learning more about ML
+# Resources for learning more about Machine Learning with Python
 
 ## YouTube videos
 
-Professor Mark Whitehorn gave a wonderful talk on neural nets to the London Business Analytics Group.  The video is here.
+Professor Mark Whitehorn gave two wonderful talks to the London Business Analytics Group, an introduction to [machine learning](https://youtu.be/wg6l_o-txwQ?si=oCiVG8bPogABiSLy) and to [neural nets](https://youtu.be/mhiBZqQ7SbI?si=lRPRUbx25iFsUxCu).
 
-Mosh provides several great video.  His channel is  ...
+Mosh has a great Python Machine learning tutorial video [here](https://youtu.be/7eh4d6sabA0?si=a9V1gOIqC2OmJ61y).
 
-Kylie does an fantastic accessible four hour introduction to ML (Machine Learning for Everybody) here ...
+Kylie Ying  does an fantastic accessible four hour introduction to ML (Machine Learning for Everybody) [here](https://www.youtube.com/watch?v=i_LwzRVP7bg).
 
-Data Professor has a good selection of tutorials
+The Data Professor You Tube channel [here](https://www.youtube.com/@DataProfessor) has a great selection of tutorials.
 
 ## Courses
 
@@ -23,5 +23,3 @@ As well a lots of great datasets, [Kaggle](https://www.kaggle.com/) also hosts e
 ## Other resources
 
 Course [Artificial Intelligence for Beginners](https://github.com/microsoft/ai-for-beginners) 12-week, 24-lesson from Microsoft
-
-Course [Microsoft Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 4 years old, a YouTube series

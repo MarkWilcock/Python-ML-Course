@@ -2,9 +2,9 @@
 
 [Introduction to the course](Introduction.md)
 
-[Datasets used in the course](Datasets.md)
+[Datasets used in the course](course_datasets.md)
 
-## scikit-learn tutorials
+## scikit-learn examples
 
 [Linear Regression using scikit-learn (Diabetes dataset)](linear_regression_diabetes.ipynb)
 
@@ -16,8 +16,12 @@
 
 [KNN and Naive Bayes using scikit-learn (MAGIC gamma telescope dataset)](telescope.ipynb)
 
-## keras tutorials
+## keras examples
 
-[Neural Nets using keras (MNIST Digits dataset)](keras_example_nn.ipynb)
+[Neural Nets using keras (MNIST Digits dataset)](keras_mnist.ipynb)
 
-[Neural Nets using keras (Churn dataset)](keras_housing.ipynb)
+[Neural Nets using keras (Telco Churn dataset)](keras_telco_churn.ipynb)
+
+## Useful learning resources
+
+[Post Course Resources](post_course_resources.md)

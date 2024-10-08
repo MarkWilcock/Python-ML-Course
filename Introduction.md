@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Machine Learning course.  This covers "classical" machine learning - regression and classification techniques.  (We have another course on generative AI.) Classical ML uses a family of algorithm (models) to find patterns in data and use those patterns to predict useful values in new data.
+Welcome to the Machine Learning with Python course.  This covers "classical" machine learning - regression and classification techniques.  (We have another course on generative AI.) Classical ML uses a family of algorithm (models) to find patterns in data and use those patterns to predict useful values in new data.
 
 Most of the course is in the form of guided tutorials and lab exercises in Python notebooks.  To do the course you need at least some basic familiarity with Python and with the numpy and pandas libraries - for example, gained in our Python foundation courses.
 
@@ -24,11 +24,14 @@ Classical machine learning splits into two techniques
 * Regression is a technique for estimating a numeric value (answering the question how much or how many)
 * Classification is a technique for estimating a category. For example is an email spam or not-spam.  Is a credit card transaction fraudulent or not?  Classification can be either binary or multinomial.
 
-Supervised vs unsupervised learning
+Supervised and unsupervised learning are two fundamental types of machine learning.  
 
-# scikit-learn
+* In supervised learning, the model is trained using labeled data, where each input has a corresponding known output. For example, we use supervised learning to  predict house prices using historical data (features like size, location) and corresponding prices (labels).
+* In unsupervised learning, the model is trained on data without labeled responses, so it tries to find hidden patterns or grouping. For example, we use unsupervised learning to group customers into different segments based on purchasing behavior
 
-scikit-learn offers a set of models including:
+## The scikit-learn package
+
+This is the main ML packgae that we use in the course.  scikit-learn offers a set of models including:
 
 * linear regreassion
 * logistic regression (depite its name, this is a classification model)
@@ -47,21 +50,3 @@ scikit-learns has several popular useful modules
 * datasets - provides several sample datasets
 * linear_model
 * metrics, for measuring how good (accurate) the model is
-
-## Course Structure
-
-The structure of this course is:
-
-* Introduction
-* Datasets used in the Course
-* Linear (least squares and SVM)  and Logistic Regression
-  * Linear regression tutorial: to do
-  * Linear regression lab exercise: to do
-  * Logistic regression tutorial: Titanic Passenger Survival
-  * Logistic regress lab exercise: to do (use bank churn)  
-* Other Classification Models: k Nearest Neighbours (kNN), Naive Bayes,  Lab to compare and evaluate several models
-  * Tutorial for each
-  * Lab exercise for each
-* Unsupervised techniques.  Clustering
-* Deep learning. Building neural nets.  keras, tensorflow and PyTorch packages (optional advanced section)
-* Resources
