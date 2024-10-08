@@ -1,9 +1,6 @@
 # Any in_progress files
 in-progress/
 
-#  Contains the to do list
-_plan.txt
-
 #  Any output file
 outputs/
 

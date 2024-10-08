@@ -1,8 +1,0 @@
-Plan - Next Steps
-
-Continue the Microsoft ML for beginners courses.  Look at Ch 4 (Classification) Next
-
-Do datacamp ML models and exercises. Contunue with churn dataset
-
-Build a logistics model on the bank churn dataset - use for lab exercise
-
