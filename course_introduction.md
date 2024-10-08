@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to the Machine Learning with Python course
 
 Welcome to the Machine Learning with Python course.  This covers "classical" machine learning - regression and classification techniques.  (We have another course on generative AI.) Classical ML uses a family of algorithm (models) to find patterns in data and use those patterns to predict useful values in new data.
 
@@ -31,12 +31,13 @@ Supervised and unsupervised learning are two fundamental types of machine learni
 
 ## The scikit-learn package
 
-This is the main ML packgae that we use in the course.  scikit-learn offers a set of models including:
+This is the main ML package that we use in the course.  scikit-learn offers a set of models including:
 
-* linear regreassion
+* linear regression
 * logistic regression (depite its name, this is a classification model)
 * SVM, a type of linear regression
-* k-NN,  a model that classifies a data point based on a majority vote of its nearest neighbours
+* k nearest neighbours (kNN),  a model that classifies a data point based on a majority vote of its nearest neighbours
+* decision trees
 
 scikit-learn has a consistent pattern for creating and using models, regardless of the type of model being used.
 

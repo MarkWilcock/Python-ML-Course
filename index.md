@@ -1,6 +1,6 @@
 # Machine Learning With Python Course - Contents
 
-[Introduction to the course](Introduction.md)
+[Introduction to the course](course_introduction.md)
 
 [Datasets used in the course](course_datasets.md)
 
@@ -8,7 +8,7 @@
 
 [Linear Regression using scikit-learn (Diabetes dataset)](linear_regression_diabetes.ipynb)
 
-[Logistic Regression using scikit-learn (Titanic dataset)](logistic_regression_titanic_2.ipynb)
+[Logistic Regression using scikit-learn (Titanic dataset)](logistic_regression_titanic.ipynb)
 
 [Decision Tree using scikit-learn (Titanic dataset)](decisison_tree_titanic.ipynb)
 
