@@ -6,19 +6,19 @@
 
 ## scikit-learn examples
 
-[Linear Regression using scikit-learn (Diabetes dataset)](linear_regression_diabetes.ipynb)
+[Linear Regression using scikit-learn](linear_regression_diabetes.ipynb). Uses Diabetes dataset.
 
-[Classification using scikit-learn (Titanic dataset)](classification_titanic.ipynb)  Uses Logistic Regression and Decision Tree classifiers.
+[Classification using scikit-learn](classification_titanic.ipynb)  Uses Logistic Regression and Decision Tree classifiers on Titanic dataset.
 
-[Support Vectors using scikit-learn (MNIST Digits dataset)](svc_digits.ipynb)
+[SVC using scikit-learn](svc_digits.ipynb). Uses Support Vector classifier on MNIST Digits dataset.
 
-[KNN and Naive Bayes using scikit-learn (MAGIC gamma telescope dataset)](telescope.ipynb)
+[KNN and NB using scikit-learn](telescope.ipynb) Uses K nearest Neighbours and Naive Bayes classifiers on MAGIC gamma telescope dataset.
 
 ## keras examples
 
-[Neural Nets using keras (MNIST Digits dataset)](keras_mnist.ipynb)
+[Neural Nets using keras](keras_mnist.ipynb)  MNIST Digits dataset
 
-[Neural Nets using keras (Telco Churn dataset)](keras_telco_churn.ipynb)
+[Neural Nets using keras](keras_telco_churn.ipynb) Telco Churn dataset
 
 ## Useful learning resources
 
