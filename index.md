@@ -8,9 +8,7 @@
 
 [Linear Regression using scikit-learn (Diabetes dataset)](linear_regression_diabetes.ipynb)
 
-[Logistic Regression using scikit-learn (Titanic dataset)](logistic_regression_titanic.ipynb)
-
-[Decision Tree using scikit-learn (Titanic dataset)](decisison_tree_titanic.ipynb)
+[Classification using scikit-learn (Titanic dataset)](classification_titanic.ipynb)  Uses Logistic Regression and Decision Tree classifiers.
 
 [Support Vectors using scikit-learn (MNIST Digits dataset)](svc_digits.ipynb)
 
