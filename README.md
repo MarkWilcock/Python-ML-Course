@@ -13,15 +13,20 @@ These are the materials for a Machine Learning with Python course.  See [the cou
 [Linear Regression using scikit-learn](linear_regression_diabetes.ipynb). Uses Diabetes dataset. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/linear_regression_diabetes.ipynb)
 
-[Classification using scikit-learn](classification_titanic.ipynb)  Uses Logistic Regression and Decision Tree classifiers on Titanic dataset.
+[Classification using scikit-learn](classification_titanic.ipynb)  Uses Logistic Regression and Decision Tree classifiers on Titanic dataset. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/classification_titanic.ipynb)
 
-[SVC using scikit-learn](svc_digits.ipynb). Uses Support Vector classifier on MNIST Digits dataset.
+[SVC using scikit-learn](svc_digits.ipynb). Uses Support Vector classifier on MNIST Digits dataset. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/svc_digits.ipynb)
 
 ### Deep learning (neural nets) examples
 
-[MNIST Digits](keras_mnist.ipynb) Classifying handwritten digits using a neural net with the keras package.
+[MNIST Digits](keras_mnist.ipynb) Classifying handwritten digits using a neural net with the keras package. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/keras_mnist.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/keras_mnist.ipynb)
 
-[Telco Churn](keras_telco_churn.ipynb) Predicting customer churn using a neural net with the keras package.
+[Telco Churn](keras_telco_churn.ipynb) Predicting customer churn using a neural net with the keras package.  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/keras_telco_churn.ipynb)
 
 ### Useful learning resources
 
