@@ -34,7 +34,7 @@ Supervised and unsupervised learning are two fundamental types of machine learni
 This is the main ML package that we use in the course.  scikit-learn offers a set of models including:
 
 * linear regression
-* logistic regression (depite its name, this is a classification model)
+* logistic regression (despite its name, this is a classification model)
 * SVM, a type of linear regression
 * k nearest neighbours (kNN),  a model that classifies a data point based on a majority vote of its nearest neighbours
 * decision trees
