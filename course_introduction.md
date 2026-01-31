@@ -2,13 +2,13 @@
 
 Welcome to the Machine Learning with Python course.  This covers "classical" machine learning - regression and classification techniques.  (We have another course on generative AI.) Classical ML uses a family of algorithm (models) to find patterns in data and use those patterns to predict useful values in new data.
 
-Most of the course is in the form of guided tutorials and lab exercises in Python notebooks.  To do the course you need at least some basic familiarity with Python and with the numpy and pandas libraries - for example, gained in our Python foundation courses.
+Most of the course is in the form of guided tutorials and lab exercises in Python notebooks.  To do the course you need at least some basic familiarity with Python and with the numpy and pandas libraries - for example, gained in our Python foundation and intermediate courses.
 
 The course uses three Python libraries extensively;
 
 * numpy,
-* pandas and
-* scikit-learn, an open-source library for supervised and upsupervised learning (explained below) with lots of tools to pre-process data, create, fit and evaluate models.
+* pandas
+* scikit-learn, an open-source library for supervised and unsupervised learning (explained below) with lots of tools to pre-process data, create, fit and evaluate models.
 
 The exercises and tutorials use public datasets.  These are in the data folder of this repo.  The Datasets sections provided a brief description of each.
 
@@ -22,7 +22,7 @@ Dataset Terms:
 Classical machine learning splits into two techniques
 
 * Regression is a technique for estimating a numeric value (answering the question how much or how many)
-* Classification is a technique for estimating a category. For example is an email spam or not-spam.  Is a credit card transaction fraudulent or not?  Classification can be either binary or multinomial.
+* Classification is a technique for estimating a category. For example is an email spam or not-spam.  Is a credit card transaction fraudulent or not?  Classification can be either binary (A or B) or multinomial (A or B or C OR ...)
 
 Supervised and unsupervised learning are two fundamental types of machine learning.  
 

@@ -11,8 +11,7 @@ It is provided as an internal dataset of the keras package.  To import it into P
 
 ## Diabetes
 
-The diabetes dataset has ten baseline measurements (age, sex, body mass index, average blood pressure, and six blood serum measurements) 
-for 442 patients.  The label is a quantitative measure of disease progression one year after baseline measurements were taken.
+The diabetes dataset has ten baseline measurements (age, sex, body mass index, average blood pressure, and six blood serum measurements) for 442 patients.  The label is a quantitative measure of disease progression one year after baseline measurements were taken.
 
 The scikit learn website [here](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) has full details.
 
