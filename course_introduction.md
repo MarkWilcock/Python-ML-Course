@@ -22,7 +22,7 @@ Dataset Terms:
 Classical machine learning splits into two techniques
 
 * Regression is a technique for estimating a numeric value (answering the question how much or how many)
-* Classification is a technique for estimating a category. For example is an email spam or not-spam.  Is a credit card transaction fraudulent or not?  Classification can be either binary (A or B) or multinomial (A or B or C OR ...)
+* Classification is a technique for estimating a category. For example is an email spam or not-spam.  Is a credit card transaction fraudulent or not?  Classification can be either binary (A or B) or multinomial (A or B or C or ...)
 
 Supervised and unsupervised learning are two fundamental types of machine learning.  
 
@@ -41,11 +41,11 @@ This is the main ML package that we use in the course.  scikit-learn offers a se
 
 scikit-learn has a consistent pattern for creating and using models, regardless of the type of model being used.
 
-1. model = a class of some Model type
-2. model.fit(X, y)  
-3. predictions = model.predict  
+> model = a class of some Model type  
+> model.fit(X, y)  
+> predictions = model.predict  
 
-scikit-learns has several popular useful modules
+scikit-learn has several popular useful modules
 
 * model_selection - splits data into training and test
 * datasets - provides several sample datasets
