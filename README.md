@@ -22,7 +22,6 @@ These are the materials for a Machine Learning with Python course.  See [the cou
 ### Deep learning (neural nets) examples
 
 [MNIST Digits](keras_mnist.ipynb) Classifying handwritten digits using a neural net with the keras package. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/keras_mnist.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/keras_mnist.ipynb)
 
 [Telco Churn](keras_telco_churn.ipynb) Predicting customer churn using a neural net with the keras package.  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](

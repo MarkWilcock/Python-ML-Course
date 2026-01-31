@@ -24,7 +24,7 @@ The diabetes dataset has ten baseline measurements (age, sex, body mass index, a
 The [scikit learn website](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) has full details.
 
 To import into Python, we may use:
-> from sklearn import datasets
+> from sklearn import datasets  
 > X, y = datasets.load_diabetes(return_X_y=True)
 
 ## Telco Customer Churn
