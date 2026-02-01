@@ -8,6 +8,11 @@ These are the materials for a Machine Learning with Python course.  See [the cou
 
 [Datasets used in the course](course_datasets.md)
 
+### Getting Started
+
+[Getting started with scikit-learn](get_started_scikit.ipynb) Introduction to using the scikit-learn package: loading data, creating and fitting models, making predictions, handling categorical variables. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/get_started_scikit.ipynb)
+  
 ### scikit-learn examples
 
 [Linear Regression using scikit-learn](linear_regression_diabetes.ipynb). Uses Diabetes dataset. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
