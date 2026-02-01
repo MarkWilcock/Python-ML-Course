@@ -17,6 +17,11 @@ The MNIST digits dataset is a collection of 70,000 hand-written digits (0-9), wi
 It is provided as an internal dataset of the keras package.  To import it into Python, we use
 > from keras.datasets import mnist
 
+For more information:
+
+* there is a [Wikipedia page here](https://en.wikipedia.org/wiki/MNIST_database)
+* the [keras documentation is here](https://keras.io/api/datasets/mnist/)
+
 ## Diabetes
 
 The diabetes dataset has ten baseline measurements (age, sex, body mass index, average blood pressure, and six blood serum measurements) for 442 patients.  The label is a quantitative measure of disease progression one year after baseline measurements were taken.
