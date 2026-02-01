@@ -6,18 +6,46 @@ Most of the course is in the form of guided tutorials and lab exercises in Pytho
 
 The course uses three Python libraries extensively;
 
-* numpy,
+* numpy
 * pandas
 * scikit-learn, an open-source library for supervised and unsupervised learning (explained below) with lots of tools to pre-process data, create, fit and evaluate models.
 
-The exercises and tutorials use public datasets.  These are in the data folder of this repo.  The Datasets sections provided a brief description of each.
+The exercises and tutorials use public datasets.  The Datasets page provides a brief description of each and links to more details.
 
-Dataset Terms:
+## Dataset Terms
+
+In machine learning we use these terms to describe datasets:
 
 * features (independent variables)
 * label (target variable, dependent variable)
-* training and test data
 * X and y naming notation
+
+## Types of Variables
+
+A variable can either be numeric (continuous or discrete) or categorical (a set of categories or classes).  
+
+Numeric values can be discrete (e.g. counts like number of children) or continuous (e.g. measurements like height, weight, temperature).
+
+Categorical variables indicate distinct groups or categories. For example,
+
+* journey type (e.g. business, leisure)
+* crime category (e.g. burglary, robbery, fraud)
+* product category (e.g. electronics, clothing, furniture):
+
+Nominal variables are categorical variables with no inherent order. The values are labels only, and their order does not matter, for example:
+
+* types of fruits: apples, bananas, oranges
+* car makes: VW, BMW, Audi
+* countries in the United Kingdom (England, Scotland, Wales, Northern Ireland)
+
+Ordinal variables are categorical variables that do have a natural order. The values reflect ranking or progression, though the exact differences between levels may not be measurable.  For example:
+
+* education levels: GCSE → A-level → university degree
+* body mass index (BMI) classification: underweight → normal → overweight → obese
+* customer satisfaction: poor → fair → good → excellent
+* days of the week (Monday → Sunday) or months of the year (January → December) (Although days and months are technically cyclical, we usually treat them as ordered categories.)
+
+## ML terms and techniques
 
 Classical machine learning splits into two techniques:
 
@@ -28,6 +56,15 @@ Supervised and unsupervised learning are two fundamental types of machine learni
 
 * In supervised learning, the model is trained using labeled data, where each input has a corresponding known output. For example, we use supervised learning to  predict house prices using historical data (features like size, location) and corresponding prices (labels).
 * In unsupervised learning, the model is trained on data without labeled responses, so it tries to find hidden patterns or grouping. For example, we use unsupervised learning to group customers into different segments based on purchasing behavior
+
+To evaluate a model, we typically split the dataset into training and test sets. The model is trained on the training set and then evaluated on the test set to see how well it generalizes to new, unseen data. Typically we may use 70% of the data for training and 30% for testing, or 70/30 split but this can vary depending on the dataset size and complexity.
+
+The machine learning workflow typically involves the following steps:
+
+1. Split a dataset into training and test sets
+1. Train an chosen algorithm with the training data -> model
+1. Test that model works well by evaluating it with the test data -> accuracy
+1. Use model + new data to make predictions
 
 ## The scikit-learn package
 
