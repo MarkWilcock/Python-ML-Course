@@ -12,7 +12,7 @@ These are the materials for a Machine Learning with Python course.  See [the cou
 
 [Linear Regression](regression_mtcars.ipynb) Introduction to using the scikit-learn package: loading data, creating and fitting models, scaling data, making predictions.  Uses the [mtcars dataset](course_datasets.md#mtcars). [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/regression_mtcars.ipynb)
   
-[Classification](logistic_regression_bank_churn.ipynb) A classification example. Covers logistic regression models, splitting into training and test datasets, evaluating a model and  handling categorical variables. Uses the [bank churn dataset](course_datasets.md#bank-churn). [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/logistic_regression_bank_churn.ipynb)
+[Classification](classification_bank_churn.ipynb) A classification example. Covers logistic regression models, splitting into training and test datasets, evaluating a model and  handling categorical variables. Uses the [bank churn dataset](course_datasets.md#bank-churn). [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/markwilcock/python-ml-course/blob/main/classification_bank_churn.ipynb)
   
 ### scikit-learn examples
 
