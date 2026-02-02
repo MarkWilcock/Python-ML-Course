@@ -2,9 +2,9 @@
 
 The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn package.  Others are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
 
-## Titanic
+## MTCars
 
-This is a partial list of some of the passengers on the Titanic.  [Full details are available on this page](https://zomalex.co.uk/datasets/titanic_dataset.html)
+This is a classic dataset of 32 American supercars from the 1970s.  Full details are available on [this page](https://zomalex.co.uk/datasets/mt_cars_dataset.html)
 
 ## Bank Churn
 
@@ -21,6 +21,10 @@ For more information:
 
 * there is a [Wikipedia page here](https://en.wikipedia.org/wiki/MNIST_database)
 * the [keras documentation is here](https://keras.io/api/datasets/mnist/)
+
+## Titanic
+
+This is a partial list of some of the passengers on the Titanic.  [Full details are available on this page](https://zomalex.co.uk/datasets/titanic_dataset.html)
 
 ## Diabetes
 

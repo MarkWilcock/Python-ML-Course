@@ -1,0 +1,14 @@
+Write the Python code to build a logistic regression model using scikit-learn
+Assume that a DataFrame, df, already exists and has the following columns
+* Gender: (male, female)
+* Geography: (France, Germany, Spain)
+* Age: - an integer
+* Exited: - the label, either 1 (the customer has churned) or 0 (the customer has not churned)
+
+The code must
+- split data into training and test datasets
+- fit the model to the training data
+- predict the test  values
+- compare predicted and actual test data labels to evaluate the performance of the model
+
+
