@@ -1,6 +1,6 @@
 # Datasets used in the Course
 
-The lab exercises and tutorial in the course use several datasets. Some of these are inbuilt datasets in the scikit-learn package.  Others are in the data folder of this repo.  Here is a brief description of each, and a link for further information.
+The lab exercises and tutorial in the course use several datasets. Some of these are built-in datasets in the scikit-learn package. Others are in the `data` folder of this repo. Here is a brief description of each, and a link for further information.
 
 ## MTCars
 
@@ -8,14 +8,17 @@ This is a classic dataset of 32 American supercars from the 1970s.  Full details
 
 ## Bank Churn
 
-This fictional  dataset contains churn status of 10,000 bank customers.  Full details are available on [this page](https://zomalex.co.uk/datasets/bank_churn_dataset.html)
+This fictional dataset contains churn status of 10,000 bank customers. Full details are available on [this page](https://zomalex.co.uk/datasets/bank_churn_dataset.html)
 
 ## MNIST Digits
 
-The MNIST digits dataset is a collection of 70,000 hand-written digits (0-9), with 60,000 for training and 10,000 for testing. Each digit is a 28x28 pixel grayscale image.  The MNIST dataset is a well known dataset in machine learning.
+The MNIST digits dataset is a collection of 70,000 hand-written digits (0-9), with 60,000 for training and 10,000 for testing. Each digit is a 28x28 pixel grayscale image. The MNIST dataset is a well-known dataset in machine learning.
 
-It is provided as an internal dataset of the keras package.  To import it into Python, we use
-> from keras.datasets import mnist
+It is provided as an internal dataset of the keras package. To import it into Python, we use:
+
+```python
+from keras.datasets import mnist
+```
 
 For more information:
 
@@ -33,8 +36,11 @@ The diabetes dataset has ten baseline measurements (age, sex, body mass index, a
 The [scikit learn website](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) has full details.
 
 To import into Python, we may use:
-> from sklearn import datasets  
-> X, y = datasets.load_diabetes(return_X_y=True)
+
+```python
+from sklearn import datasets
+X, y = datasets.load_diabetes(return_X_y=True)
+```
 
 ## Telco Customer Churn
 
