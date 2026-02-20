@@ -5,7 +5,9 @@
       "Bash(git commit:*)",
       "Bash(git -C /c/Users/markw/repos/Python-ML-Course log --oneline -5)",
       "Bash(.venv/Scripts/pip install:*)",
-      "Bash(.venv/Scripts/pytest regression_mtcars.ipynb --nbmake --nbmake-timeout=60 -v)"
+      "Bash(.venv/Scripts/pytest regression_mtcars.ipynb --nbmake --nbmake-timeout=60 -v)",
+      "Bash(pytest:*)",
+      "Bash(python -m pytest:*)"
     ]
   }
 }
