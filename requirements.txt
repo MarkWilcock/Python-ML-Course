@@ -1,4 +1,8 @@
 imbalanced-learn==0.14.1
+
+# dev / testing
+nbmake==1.5.5
+pytest==9.0.2
 joblib==1.5.2
 keras==3.13.2
 matplotlib==3.10.8
